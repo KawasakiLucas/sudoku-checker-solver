@@ -46,7 +46,7 @@ In the end, create a function to validate all the functions above.
 
 #
 
-🔗 [Check out my Portfolio Website here ->](https://github.com/KawasakiLucas/portfolio)
+🔗 [Check out my other projects here ->](https://github.com/KawasakiLucas/portfolio)
 
 #
 
