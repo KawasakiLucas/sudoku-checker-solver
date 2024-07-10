@@ -2,7 +2,7 @@
 
 Sudoku is a puzzle based on logic and combinatorial number placement. The goal in classic Sudoku is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids (also known as “boxes") contain all the digits from 1 to 9. The puzzle begins with a partially filled grid, and a well-designed puzzle will have only one possible solution.
 
-<img align="center" src="https://github.com/KawasakiLucas/sudoku-cheker-solver/blob/master/Sudoku_Puzzle.png">
+<img align="center" src="https://github.com/KawasakiLucas/sudoku-checker-solver/blob/master/Sudoku_Puzzle.png">
 
 <h2 align="center">Rules</h2>
 
